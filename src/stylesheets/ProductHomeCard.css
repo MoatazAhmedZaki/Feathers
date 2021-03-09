@@ -1,0 +1,58 @@
+.ProductHomeCard {
+  position: relative;
+  border-radius: 8px;
+}
+
+.ProductHomeCard-Content {
+  position: absolute;
+  bottom: 20px;
+  /* left: 20px; */
+  padding: 20px;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+
+
+}
+.ProductHomeCard-pragh {
+  color: white;
+  font-size: 25px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  /* display: flex; */
+  text-align: start;
+
+  width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+
+}
+
+.ProductHomeCard-btn {
+  width: 178px;
+  height: 49px;
+  border-radius: 50px;
+  background-color: #ffffff;
+  border: none;
+
+
+
+}
+
+.ProductHomeCard::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+  border-radius: 8px;
+}

@@ -1,0 +1,14 @@
+{
+  "AR": {
+    "HomeLink": "الرئيسية",
+    "AboutUsLink": "عنا",
+    "ProductsLink": " المنتجات",
+    "ContactUsLink": "تواصل معنا  "
+  },
+  "EN": {
+    "HomeLink": "Home",
+    "AboutUsLink": " About Us",
+    "ProductsLink": "Product",
+    "ContactUsLink": "Contact Us"
+  }
+}

@@ -1,0 +1,57 @@
+.add-Address,
+.add-Address:hover {
+  background-color: transparent;
+  border-radius: 25px;
+
+  box-shadow: 0 3px 6px 0 rgba(180, 180, 180, 0.16);
+
+  border: dashed 3px #cecece;
+  color: black;
+  height: 100%;
+  width: 100%;
+}
+
+.add-Address h4 {
+  font-size: 45px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 0.44;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #d2d2d2;
+}
+
+.add-Address p {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 18px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.11;
+
+  letter-spacing: normal;
+
+  text-align: center;
+
+  color: #525252;
+}
+
+.modal-content {
+  border-radius: 20px;
+}
+
+
+.payment-method-btn , .payment-method-btn:hover , .payment-method-btn:focus{  background-color: #94c748; color: white; border: none; text-transform: uppercase;}

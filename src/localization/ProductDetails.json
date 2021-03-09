@@ -1,0 +1,45 @@
+{
+  "AR": {
+    "Lang": "ar",
+    "Colors": ":الالوان",
+    "Size": "المقاس",
+    "SizeTable": "شاهد جدول المقاسات",
+    "ChooseSize": "اختر مقاس ",
+    "Quantity": "الكمية",
+    "Add": "اضف الي  سلة المشتريات ",
+    "Description": "الوصف",
+    "Reviews": "التعليقات",
+    "ShowMore": "تصفح الكل",
+    "SelectedJustForYou": "مختارة فقط لأجلك",
+
+    "AddOpinion": "اضف تعليق",
+    "Material": "التفاصيل ووصف المنتج",
+    "Details": "المواد والعناية",
+
+    "AllOpinions": "جميع التعليقات",
+
+    "NoReviews": "لا يوجد تعليقات",
+    "NoDescription": "لا يوجد وصف لهذا المنتج",
+    "NoBrief": "لا يوجد نبذة عن هذا المنتج"
+  },
+  "EN": {
+    "Lang": "en",
+    "Colors": "Colors:",
+    "Size": "Size",
+    "SizeTable": "See size table",
+    "ChooseSize": "Choose Size ",
+    "Quantity": "Quantity",
+    "Add": "Add to cart ",
+    "Description": "Description",
+    "Reviews": "Reviews",
+    "ShowMore": "Show More",
+    "SelectedJustForYou": "Selected just for you",
+    "AddOpinion": "Add Opinion",
+    "Material": "Details And Product Description",
+    "Details": "Materials And Care",
+    "AllOpinions": " All Opinions",
+    "NoReviews": "There is no reviews to show",
+    "NoDescription": "there is no description for product",
+    "NoBrief": "there is no brief for product"
+  }
+}

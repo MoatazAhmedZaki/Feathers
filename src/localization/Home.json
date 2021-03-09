@@ -1,0 +1,36 @@
+{
+  "AR": {
+    "Lang": "ar",
+    "ShowMore": "تصفح الكل",
+    "SelectedJustForYou": "مختارة فقط لأجلك",
+    "Choose": " لماذا يجب عليك إختيارنا؟",
+    "FreeShipping": "الشحن مجانا",
+    "FreeShippingDes": ".جميع المشتريات التي تزيد عن 799 درهمًا إماراتيًا مؤهلة للشحن المجاني",
+    "EasyPayments": "مدفوعات سهلة",
+    "EasyPaymentsDes": ".تتم معالجة جميع المدفوعات على الفور عبر بروتوكول دفع آمن",
+    "MoneyBackGuarantee": "ضمان استعادة الاموال",
+    "MoneyBackGuaranteeDes": ".في حالة وصول عنصر تالفًا أو إذا غيرت رأيك ، يمكنك إعادته لاسترداد أموالك بالكامل",
+    "FinestQuality": "افضل جودة",
+    "FinestQualityDes": ".تم تصميم كل منتجاتنا لتدوم طويلاً ، وقد تم تصنيعها من أجود المواد    ",
+    "ProductsInToday":"منتجات اليوم",
+    "ShowProduct":"شاهد المنتج"
+
+
+  },
+  "EN": {
+    "Lang": "en",
+    "ShowMore": "Show More",
+    "SelectedJustForYou": "Selected just for you",
+    "Choose": "Why should you choose us?",
+    "FreeShipping": "Free Shipping",
+    "FreeShippingDes": "All purchases over 799 AED are eligible for free shipping.",
+    "EasyPayments": "Easy Payments",
+    "EasyPaymentsDes": "All payments are processed instantly over a secure payment protocol.",
+    "MoneyBackGuarantee": "Money-Back Guarantee",
+    "MoneyBackGuaranteeDes": "If an item arrived damaged or you've changed your mind, you can send it back for a full refund.",
+    "FinestQuality": "Finest Quality",
+    "FinestQualityDes": "Designed to last, each of our products has been crafted with the finest materials.",
+    "ProductsInToday":"Products in today",
+    "ShowProduct":"Show Product"
+  }
+}

@@ -1,0 +1,89 @@
+.ProfilePage {
+    /* background-color: #fafafa; */
+    min-height: 80vh;
+  }
+  
+  .ProfilePage .setting-holder {
+    /* background-color: white; */
+  }
+  
+  .ProfilePage .setting-holder {
+    /* border: 1px solid #cecece; */
+  }
+  
+  
+  
+  .ProfilePage .nav-pills .nav-link.active {
+    /* background-color: transparent; */
+    background-color:#8c7049 ;
+    border: 1px solid #8c7049;
+    display: block;
+    color: black;
+    text-transform: uppercase;
+    /* width: fit-content; */
+    margin: auto;
+  }
+  
+  .ProfilePage .nav-pills .nav-link {
+    color: black;
+    border-radius: 20px;
+
+    background-color: transparent;
+    text-transform: uppercase;
+    margin: auto;
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    border: 1px solid  #8c7049;
+  }
+  /* 
+  .noti-numb {
+    width: 23px;
+    border-radius: 50%;
+    height: 23px;
+    text-align: center;
+    padding-bottom: 30px;
+    background-color: #f8901a;
+    color: white;
+  } */
+  
+  .ProfilePage .profile-name {
+  
+    font-size: 40px;
+  
+    font-weight: bold;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    letter-spacing: normal;
+  
+    color: #5e5e5e;
+    text-transform: uppercase;
+  }
+  
+  .ProfilePage .profile-location {
+  
+    font-size: 18px;
+  
+    font-weight: normal;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1.11;
+  
+    letter-spacing: normal;
+  
+    text-align: left;
+  
+    color: #5e5e5e;
+  }
+  
+  .ProfilePage .profile-logout-btn {
+    color: #5e5e5e;
+    width: fit-content;
+  }
+  

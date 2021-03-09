@@ -1,0 +1,33 @@
+{
+  "AR": {
+    "Lang": "ar",
+    "ShowProducts": "اظهار المنتجات:",
+    "Sort": "رتب :",
+    "Next": "القادم",
+    "Prev": "السابق",
+    "ProductTypes": "نوع المنتج",
+    "Price": "السعر",
+    "Collection": "المجموعة",
+    "Size": "المقاس",
+    "Color": "الون",
+    "NoProducts": "لا يوجد منتجات",
+    "Categories":"الفئة"
+
+  },
+  "EN": {
+    "Lang": "en",
+    "ShowProducts": "Show Products",
+    "Sort": "Sort:",
+    "Next": "Next",
+    "Prev": "Prev",
+
+    "ProductTypes": "Product Types",
+    "Price": "Price",
+    "Collection": "Collection",
+    "Size": "Size",
+    "Color": "Color",
+   "NoProducts": "There Are No Products",
+   "Categories":"Categories"
+
+  }
+}

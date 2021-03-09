@@ -1,0 +1,12 @@
+.circle-icon{ width: 80px; height: 80px; margin: auto;
+    /* display: flexbox;  */
+    border-radius: 40px;
+    border: solid 2px #000000;
+    background-color: #f6f6f6;}
+
+    .icon-card-title{color: black;   font-size: 23px;
+    }
+
+    .icon-card-prag{  color: #808080;   font-size: 18px;
+
+    }

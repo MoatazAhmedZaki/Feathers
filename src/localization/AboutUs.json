@@ -1,0 +1,14 @@
+{
+  "AR": {
+    "Lang": "ar",
+    "About": "عنا",
+    "Mission": "المهمة",
+    "Vision": "الرؤية"
+  },
+  "EN": {
+    "Lang": "en",
+    "About": "About Us",
+    "Mission": "Mission",
+    "Vision": "Vision"
+  }
+}

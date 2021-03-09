@@ -1,0 +1,57 @@
+{
+  "AR": {
+    "Lang": "ar",
+    "LogOut": "تسجيل الخروج",
+
+    "Profile": "الصفحه الشخصية",
+
+    "OldPassword": "كلمة السر القديمة",
+    "NewPassword": "كلمة السر الجديدة",
+    "ConfirmPassword": "تاكيد كلمة السر الجديدة",
+    "Update": "تغير",
+    "Password": "كلمة السر",
+    "FullName": "الاسم بالكامل",
+    "Phone": "رقم الهاتف",
+    "Email": "البريد الكتروني",
+    "BirthDate": "تاريح الميلاد",
+    "Gender": "الجنس",
+    "Male": "ذكر",
+    "Female": "انثي",
+    "Terms": "الشروط والأحكام",
+    "country": "المدن",
+
+    "SignUp": "انشاء الحساب",
+    "Already": "بالفعل لديك حساب ؟",
+    "SignIn": "تسجيل الدخول",
+    "Insta": "تابع بحساب الانسجرام",
+    "Twitter": "تابع بحساب تويتر",
+    "Currency":"العملة"
+
+  },
+  "EN": {
+    "Lang": "en",
+    "LogOut": "Log Out",
+    "Profile": "Profile",
+    "OldPassword": "Old Password",
+    "NewPassword": "New Password",
+    "ConfirmPassword": "Confirm Password",
+    "Update": "Update",
+    "Password": "Password",
+    "FullName": "Full Name",
+    "Phone": "Phone",
+    "Email": "Email",
+    "BirthDate": "Birth Date",
+    "Gender": "Gender",
+    "Male": "Male",
+    "Female": "Female",
+    "Terms": "Terms and conditions",
+    "country": "Country",
+
+    "SignUp": "Sign Up",
+    "Already": "Already have an account?",
+    "SignIn": "Sign In",
+    "Insta": "Continue with Instagram",
+    "Twitter": "Continue with Twitter ",
+    "Currency":"Currency"
+  }
+}

@@ -1,0 +1,25 @@
+.product-Details-page .nav-pills .nav-link.active {
+  background-color: transparent;
+  border: 1px solid #8c7049;
+  border-radius: 20px;
+  display: block;
+  color: black;
+  text-transform: uppercase;
+  width: fit-content;
+  margin: auto;
+}
+
+.product-Details-page .nav-pills .nav-link {
+  color: #8c7049;
+  background-color: transparent;
+  text-transform: uppercase;
+  margin: auto;
+}
+
+.rate div:focus {
+  outline: none;
+  margin-bottom: 20;
+}
+
+
+ .image-gallery-slides {height: 322px;}

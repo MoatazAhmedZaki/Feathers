@@ -1,0 +1,74 @@
+.NormalProductCard {
+  /* padding: 15px; */
+  border-radius: 8px;
+  position: relative;
+}
+
+.NormalProductCardHolder,
+.NormalProductCardHolder:hover {
+  color: black;
+  text-decoration: none;
+}
+
+.NormalProductCard-bg {
+  height: 385px;
+  background-position: center;
+  background-size: 100% 100%;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.NormalProductCard .NormalProductCard-bg .sale {
+  font-size: 12px;
+  position: absolute;
+  top: 40%;
+  right: 0;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+
+
+  width: 39px;
+  height: 24px;
+  color: white;
+  background-color: #8c7049;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.NormalProductCard .product-price {
+  margin: 0;
+  color: #787878;
+}
+
+.NormalProductCard .product-price span {
+  color: #cecece;
+}
+
+
+
+.fav:focus ,.fav:active{background-color:transparent!important; box-shadow:none!important}
+
+
+.fav i {
+  /* Prefix required. Even Firefox only supports the -webkit- prefix */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #8c7049;
+}
+
+.fav .like{color:#7b5e36}
+
+.NormalProductCard .fav,
+.NormalProductCard .fav:hover,
+.NormalProductCard .fav:focus {
+  /* position: absolute;
+  top: 5px;
+  right: 20px; background-color: transparent; border: none; box-shadow: transparent; color: gray; */
+  background-color: transparent;
+  border: none;
+  box-shadow: transparent;
+  color: white;
+  width: fit-content;
+  height: fit-content;
+  font-size: 20px;
+}

@@ -1,0 +1,61 @@
+.address-card2 {
+  /* border-radius: 20px; */
+
+  /* border: solid 1px #cecece; */
+
+  background-color: transparent;
+  position: relative;
+}
+
+.Default-address {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: #8c7049;
+  position: absolute;
+  top: -5px;
+  right: -5px;
+}
+
+.address-card2 .address-title {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 18px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.11;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #525252;
+}
+.address-card2 .address-body {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.25;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #525252;
+}

@@ -1,0 +1,386 @@
+.my-navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 201;
+  font-size: 24px;
+/* overflow-x: hidden; */
+  /* padding: 20px 0; */
+}
+.navbtn {
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+}
+.navbtn:focus {
+  border: none;
+  background-color: transparent;
+  color: white;
+  outline: transparent;
+}
+
+.black-navbar {
+
+  background-image: url("../imgs/pattern_dark.png");
+  background-position: center;
+  background-size: cover 100%;
+  /* 1595px */
+    background-repeat: no-repeat;
+  position: relative;
+}
+.staticNav{  position: fixed;
+}
+
+.Products-btn { all: unset; color: white;     
+  border: none;
+  padding: .5rem;
+  
+
+}
+
+.Products-btn:focus{outline: none;}
+
+.megaMenu {
+  width: 100vw;
+  /* height: 250px; */
+  height: 100vh;
+
+  background-color: rgba(0, 0, 0, 0.6);
+  margin: auto;
+  position: absolute;
+  overflow-y: auto;
+}
+
+.megaMenu a {
+  color: black;
+  text-decoration: none;
+}
+
+.megaMenu a:hover {
+  color: black;
+  text-decoration: none;
+}
+.navbar-toggler:focus{outline: unset;}
+
+.megaMenu-holder {
+  background-color: white;
+  width: 100vw;
+  top: 100px;
+min-height:  384px;
+    /* height: fit-content; */
+
+  overflow-y: auto;
+}
+
+.megaMeny-title {
+  font-size: 24px;
+}
+
+.megaMenu-holder ul {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-text button {
+  color: white !important;
+}
+
+.nav-text a{
+  color: white !important;
+  display: flex;
+
+
+}
+
+.search {
+  display: table;
+  padding: 10px;
+}
+.search input {
+  background: none;
+  border: none;
+  outline: none;
+  width: 28px;
+  min-width: 0;
+  padding: 0;
+  z-index: 1;
+  position: relative;
+  line-height: 18px;
+  margin: 5px 0;
+  font-size: 14px;
+  -webkit-appearance: none;
+  /* font-family: "Mukta Malar"; */
+  -webkit-transition: all 0.6s ease;
+  transition: all 0.6s ease;
+  cursor: pointer;
+  color: #fff;
+}
+.search input + div {
+  position: relative;
+  height: 28px;
+  width: 100%;
+  margin: -28px 0 0 0;
+}
+.search input + div svg {
+  display: block;
+  position: absolute;
+  height: 28px;
+  width: 160px;
+  right: 0;
+  top: 0;
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1.5px;
+  stroke-dashoffset: 271.908;
+  stroke-dasharray: 59 212.908;
+  -webkit-transition: all 0.6s ease;
+  transition: all 0.6s ease;
+  z-index: -1;
+
+}
+.search input:not(:placeholder-shown),
+.search input:focus {
+  width: 160px;
+  padding: 0 4px;
+  cursor: text;
+  /* background-color: white;
+  border-radius: 20px; */
+}
+.search input:not(:placeholder-shown) + div svg,
+.search input:focus + div svg {
+  stroke-dasharray: 150 212.908;
+  stroke-dashoffset: 300;
+}
+
+::-moz-selection {
+  background-color: black;
+}
+
+::selection {
+  background-color: black;
+}
+
+::-moz-selection {
+  background-color: black;
+}
+
+html {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+
+.svg {
+  position: absolute;
+  top: -100vh;
+}
+
+.modal-header {
+  border: none;
+}
+
+.modalInput {
+  border: 1px solid #ced4da;
+  border-radius: 20px;
+}
+.modalInput .myform-control {
+  border: none;
+  /* padding: 25px; */
+  border-radius: 20px;
+}
+
+.modalInput .myform-control:focus {
+  color: black;
+  background-color: #fff;
+  border-color: none;
+  outline: 0;
+  box-shadow: unset;
+}
+
+.modalInput .btn-primary.focus,
+.btn-primary:focus {
+  box-shadow: unset;
+}
+
+.passwordbtn {
+  background-color: transparent;
+  border: none;
+  color: black;
+}
+.passwordbtn:hover {
+  background-color: transparent;
+  border: none;
+  color: black;
+}
+
+.forgotbtn,
+.forgotbtn:hover {
+  color: #808080; border:none; background-color: transparent;
+}
+
+.custom-control-input:checked ~ .custom-control-label::before {
+  color: #fff;
+  border-color: black;
+  background-color: black;
+}
+
+.fbbtn,
+.gmbtn ,.signinbtn {
+  border-radius: 20px;
+  width: 100%;
+  padding: 10px 20px;
+}
+.fbbtn:focus,
+.gmbtn:focus ,.signinbtn:focus{outline: none;}
+/* 
+.fbbtn {
+  background-color: #3b5998;
+  border: 1px solid #3b5998;
+  color: white;
+}
+
+.gmbtn {
+  background-color: white;
+  border: 1px solid  #f1584d;
+  color: black;
+} */
+
+
+
+
+.fbbtn {
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+}
+
+.gmbtn {
+  background-color: black;
+  border: 1px solid  black;
+  color: white;
+}
+
+.signinbtn{    background-color: #8c7049;
+
+  border: 1px solid  #8c7049;
+  color: white;}
+
+  .signupbtnModal , .signupbtnModal:hover{border: none; background-color: transparent; color: black;}
+
+@media (max-width: 999px) {
+  .my-navbar {
+    background-image: url("../imgs/pattern_dark.png");
+    background-position: center;
+    background-size: cover ;
+    /* 1595px */
+      background-repeat: no-repeat;
+    position: relative;
+ 
+  }
+} 
+.dropdown.search-none .dropdown-menu{     max-height: 40vh;
+  overflow-y: auto;}
+
+
+/* .mega-slider{} */
+
+/* .mega-slider .slick-arrow::before{  color:black!important;}
+
+.mega-slider .slick-prev,  
+.mega-slider .slick-next { color:black!important;} */
+
+.btn-profile-dropmMenu , .btn-profile-dropmMenu:hover{
+
+
+  border :1px solid white;
+  color:white
+}
+
+
+ .dropdown-menu a{color:black!important}
+
+ 
+ 
+ 
+ @media (min-width: 992px) {
+  .search-none{display: none!important;}
+}
+
+
+@media (max-width: 992px) {
+  .d-blo{display: inline-block!important;}
+  .search-block{display: none!important;}
+
+
+
+
+}
+
+
+.navbar-dark .navbar-toggler {border:none}
+ 
+
+
+
+
+
+
+ /* breakpoint and up - mega dropdown styles */
+ @media screen and (min-width: 992px) {
+   
+   /* remove the padding from the navbar so the dropdown hover state is not broken */
+ .navbar {
+   padding-top:0px;
+   padding-bottom:0px;
+
+ }
+ 
+ /* remove the padding from the nav-item and add some margin to give some breathing room on hovers */
+.navbar .nav-item {
+   padding:.5rem .5rem;
+   margin:0 .25rem;
+ } 
+ 
+ /* makes the dropdown full width  */
+ .navbar #navbarDropdown {position:static;  
+ }
+ 
+ .navbar .dropdown.search-none .dropdown-menu {
+    z-index: 1000;
+
+   width:100%;
+   left:0;
+   right:0;
+ /*  height of nav-item  */
+   top:45px;
+ }
+   
+   /* shows the dropdown menu on hover */
+ .navbar #navbarDropdown:hover .dropdown-menu, .navbar #navbarDropdown .dropdown-menu:hover {
+   display:block!important;
+
+ }
+
+}
+
+.navbar .dropdown .dropdown-menu ul  {padding: 0; }
+
+.navbar .dropdown .dropdown-menu li {list-style: none; }
+
+
+
+
+#dropdown-basic{background-color: white; color: black!important; border-radius: 20px; padding: 0px 15px;}
+
+
+/* 
+.dropdown-toggle::after {
+    display:none;
+} */
+
+
+@media (min-width: 992px){
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+}

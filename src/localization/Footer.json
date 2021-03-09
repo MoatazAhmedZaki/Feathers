@@ -1,0 +1,55 @@
+{
+  "AR": {
+    "Lang": "ar",
+    "Help": "المساعدة",
+    "OrderStatus": "حالة الطلب",
+    "ShippingAndDelivery": "الشحن والتسليم",
+    "PaymentOptions": "خيارات الدفع",
+    "ContactUs": "تواصل معنا",
+    "INFORMATION": "المعلومات",
+    "GiftCards": "كروت الهدايا",
+    "FindAStore": "ابحث عن متجر",
+    "Newsletter": "النشرة الإخبارية",
+    "BacomeAMember": "أصبح عضوا",
+    "Sitefeedback": " ملاحظات على الموقع",
+    "TermsAndConditions": "الشروط والأحكام",
+    "UIKITINSIDE": "UI KIT INSIDE",
+    "ComapanyOverview": "نظرة عامة على الشركة ",
+    "MadeInUSA": "صنع فى أمريكا",
+    "Careers": "الوظائف",
+    "IdeaSubmission": "تقديم الفكرة ",
+    "StudentDiscount": "تخفيضات الطلاب",
+    "CONTACT": "اتصل",
+    "Subscribe": "الإشتراك" ,
+    "EnterEmail":"ادخل بريدك",
+    "RefundPolicy":"سياسة الاسترجاع"
+
+  },
+  "EN": {
+    "Lang": "en",
+
+    "Help": "Help",
+    "OrderStatus": " Order Status",
+    "ShippingAndDelivery": "Shipping And Delivery",
+    "PaymentOptions": "Payment Options",
+    "ContactUs": "Contac tUs",
+    "INFORMATION": "INFORMATION",
+    "GiftCards": "Gift Cards",
+    "FindAStore": "Find A Store",
+    "Newsletter": "Newsletter",
+    "BacomeAMember": "Bacome A Member",
+    "Sitefeedback": " Site Feedback",
+    "TermsAndConditions": "Terms & Conditions",
+    "UIKITINSIDE": "UI KIT INSIDE",
+    "ComapanyOverview": "Comapany Overview",
+    "MadeInUSA": "Made In USA",
+    "Careers": "Careers",
+    "IdeaSubmission": "Idea Submission",
+    "StudentDiscount": "Student Discount",
+    "CONTACT": "CONTACT",
+    "Subscribe": "Subscribe",
+    "EnterEmail":"Enter Your Email",
+    "RefundPolicy":"RefundPolicy"
+
+  }
+}

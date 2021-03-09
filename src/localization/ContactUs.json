@@ -1,0 +1,24 @@
+{
+  "AR": {
+    "Lang": "ar",
+    "Contact": "التواصل",
+    "GetInTouch": "تواصل معنا ",
+    "SendUsAMessage": "ارسل لنا رسالة",
+    "ContactInfo": "معلومات التواصل",
+    "FullName": "الاسم بالكامل",
+    "Phone": "رقم الهاتف",
+    "Email": "البريد الكتروني",
+    "massgae": "الرسالة"
+  },
+  "EN": {
+    "Lang": "en",
+    "Contact": "Contact",
+    "GetInTouch": "Get in touch ",
+    "SendUsAMessage": "Send us a message ",
+    "ContactInfo": " Contact Info",
+    "FullName": "Full Name",
+    "Phone": "Phone",
+    "Email": "Email",
+    "massgae": "Massgae"
+  }
+}

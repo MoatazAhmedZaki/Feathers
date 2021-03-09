@@ -1,0 +1,124 @@
+.ProductInfo {
+  position: relative;
+}
+
+.ProductInfo .Productprice {
+  font-size: 33px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #787878;
+}
+
+.ProductInfo .Productprice span {
+  font-size: 33px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #cecece;
+  text-decoration: line-through;
+}
+
+.ProductInfo .colors {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 2px;
+}
+
+.ProductInfo .inline {
+  display: inline-block;
+}
+
+.ProductInfo .size-btn {
+  background-color: transparent;
+  border: 1px solid #8c7049;
+  border-radius: 20px;
+  display: block;
+  color: black;
+  text-transform: uppercase;
+}
+
+.ProductInfo .Quan-btn {
+  background-color: transparent;
+  border: 1px solid #8c7049;
+  border-radius: 20px;
+  display: block;
+  color: black;
+  text-transform: uppercase;
+  width: fit-content;
+}
+
+.ProductInfo .Quan-btn * {
+  display: inline-block;
+}
+
+.ProductInfo .Quan-btn .quant-add-remove {
+  border: none;
+  background-color: transparent;
+}
+
+.ProductInfo .Quan-btn .quant-add-remove:focus {
+  outline: unset;
+  box-shadow: none;
+}
+
+.ProductInfo .add-to-card {
+  background-color: #8c7049;
+  border: 1px solid #8c7049;
+  border-radius: 20px;
+  display: block;
+  color: white;
+  text-transform: uppercase;
+}
+
+
+.fav:focus ,.fav:active{background-color:transparent!important; box-shadow:none!important}
+
+
+.fav i {
+  /* Prefix required. Even Firefox only supports the -webkit- prefix */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #8c7049;
+}
+
+.fav .like{color:#7b5e36}
+
+.ProductInfo .fav,
+.ProductInfo .fav:hover,
+.ProductInfo .fav:focus {
+  /* position: absolute;
+  top: 5px;
+  right: 20px; background-color: transparent; border: none; box-shadow: transparent; color: gray; */
+  background-color: transparent;
+  border: none;
+  box-shadow: transparent;
+  color: white;
+  width: fit-content;
+  height: fit-content;
+  font-size: 30px;
+}
+
+.ProductInfo .fav.acitve {
+  color: red;
+}
+
+@media (max-width: 992px) and (min-width: 768px) {
+  .px-7 {
+    padding-left: 7rem !important;
+    padding-right: 7rem !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .px-7 {
+    padding-left: 5rem !important;
+  }
+}

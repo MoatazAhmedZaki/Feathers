@@ -1,0 +1,184 @@
+.signup-form .form-control {border: 1px solid black;
+    border-radius: unset;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+
+
+
+}
+
+
+
+.signup-form .form-control.is-invalid:focus, .was-validated .form-control:invalid:focus {
+    border-color: #dc3545;
+  
+    box-shadow: 0 0 0 0.2rem rgba(220,53,69,.25);
+}
+
+
+.signup-form .custom-checkbox .custom-control-label::before{border-radius: 50%;}
+
+.btn-Forgot-password{background-color:transparent; padding: 0; height: fit-content; width: fit-content;}
+
+
+input {
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 300px;
+    border: none;
+    border-bottom: 1px solid #757575;
+  }
+
+/* label {
+    color: #999;
+    font-size: 18px;
+    font-weight: normal;
+    position: absolute;
+    pointer-events: none;
+    left: 5px;
+    top: 10px;
+    transition: 0.2s ease all;
+    -moz-transition: 0.2s ease all;
+    -webkit-transition: 0.2s ease all;
+  } */
+  
+ /* .form-group label {
+    top: -20px;
+    font-size: 14px;
+    color: black!important;
+  }
+
+
+  .form-group:focus-within label
+    {
+    background-color: red;
+    color: blue!important;
+  } */
+
+/* 
+  .form-group {
+    position: relative;
+    margin-bottom: 1.5rem;
+   
+  }
+
+ 
+  
+  label {
+    position: absolute;
+    top: 0;
+    padding: 7px 0 0 13px;
+    transition: all 200ms;
+    opacity: 0.5;
+  } */
+
+  /* .form-group:focus-within  label {
+    font-size: 75%;
+    transform: translate3d(0, -100%, 0);
+    opacity: 1;
+
+
+
+    
+  } */
+
+  /* .form-group input:focus > label { background: red; } */
+  /* .form-group label > input:focus { background: red;  } */
+
+ 
+  /* input:invalid ~ label { 
+background-color: green; } */
+
+/* .form-group {background-color: lawngreen;} */
+
+
+ /* input:valid  { 
+    background-color: green; } */
+
+
+   /* label:hover {background-color: hotpink;} */
+  /* input:placeholder-shown    {
+        background-color: green; 
+    } */
+
+
+    /* .form-group input:placeholder-shown  {    
+            background-color: green; 
+    } */
+
+      /* input:not([value=""])  {            background-color: blue; 
+    } */
+
+
+/* 
+    .form-group {
+      position: relative;
+      margin-bottom: 1.5rem;
+    }
+    
+    label {
+      position: absolute;
+      top: 0;
+      padding: 7px 0 0 13px;
+      transition: all 200ms;
+      opacity: 0.5;
+    }
+    
+    .form-control:focus + label,
+    .form-control:valid + label {
+      font-size: 75%;
+      transform: translate3d(0, -100%, 0);
+      opacity: 1;
+    } */
+
+    .form-group {
+      position: relative;
+      margin-bottom: 1.5rem;
+    }
+
+    .form-group .form-control  , .form-group .form-control:focus{
+      font-size: 18px;
+      padding: 10px 10px 10px 5px;
+      display: block;
+      width: 300px;
+      border: none;
+      border-bottom: 1px solid #757575;
+      border-radius: unset;
+      width: 100%;
+      box-shadow: unset;
+    }
+  
+    
+    .form-control-placeholder {
+      position: absolute;
+      top: 0;
+      padding: 7px 0 0 13px;
+      -webkit-transition: all 200ms;
+      transition: all 200ms;
+      opacity: 0.5;
+      font-size: 16px;
+      color: #272833;
+
+
+    }
+    
+    .form-control:focus + .form-control-placeholder,
+    .form-control:valid + .form-control-placeholder {
+      font-size: 75%;
+      -webkit-transform: translate3d(0, -100%, 0);
+              transform: translate3d(0, -100%, 0);
+      opacity: 1;
+    }
+    
+
+
+input[type=date]:required:invalid::-webkit-datetime-edit {
+  color: transparent;
+}
+
+
+input[type=date]:focus::-webkit-datetime-edit {
+  color: black !important;
+}

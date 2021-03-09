@@ -1,0 +1,64 @@
+.orderHistoryItem h2 {
+  font-family: 'Open Sans', sans-serif;
+
+    font-size: 18px;
+  
+    font-weight: 600;
+  
+    font-stretch: normal;
+  
+    font-style: normal;
+  
+    line-height: 1;
+  
+    letter-spacing: normal;
+  
+  
+    color: #525252;
+}
+
+.orderHistoryItem p:not(.history-type) {
+  font-family: 'Open Sans', sans-serif;
+
+  font-size: 18px;
+
+  font-weight: 600;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #525252;
+}
+
+.orderHistoryItem span {
+
+
+  font-weight: normal;
+
+ 
+}
+
+.orderHistoryItem .history-type {
+  color: white;
+  width: 73px;
+  height: 29px;
+
+
+  background-color: black;
+}
+
+.order-details-btn,
+.order-details-btn:hover,
+.order-details-btn:focus {
+  border: none;
+  background-color: transparent;
+  color: #8c7049;
+  text-decoration: none;
+}

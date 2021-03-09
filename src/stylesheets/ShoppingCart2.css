@@ -1,0 +1,101 @@
+/* HIDE RADIO */
+.shoppingcart2 [type="radio"] {
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 3px;
+  /* border: 1px solid transparent; */
+}
+
+
+.shoppingcart2 .nav-pills .nav-link.active {
+  background-color: transparent;
+  border: 1px solid #8c7049;
+  border-radius: 20px;
+  display: block;
+  color: black;
+  text-transform: uppercase;
+  width: fit-content;
+  margin: auto;
+}
+
+.shoppingcart2 .nav-pills .nav-link {
+  color: #8c7049;
+  background-color: transparent;
+  text-transform: uppercase;
+  margin: auto;
+}
+
+
+
+.shoppingcart2 .form-control-placeholder{display: flex;}
+
+/* IMAGE STYLES */
+.shoppingcart2 [type="radio"] + p {
+  cursor: pointer;
+  border: 1px solid #cecece;
+  border-radius: 5px; padding: 20px;
+}
+
+/* CHECKED STYLES */
+.shoppingcart2 [type="radio"]:checked + p {
+  /* outline: 2px solid #8c7049; */
+  /* border-radius: 3px; */
+  /* outline-radius: 25px; */
+
+  /* box-shadow: 0 0 3pt 2pt #8c7049; */
+  border-radius: 5px;
+  border: 1px solid #8c7049;
+}
+
+.total-cost2 {
+  width: 225px;
+  height: 38px;
+  border-radius: 40px;
+  border: solid 1px #8c7049;
+}
+
+.con-btn,
+.con-btn:hover {
+  background-color: white;
+  /* width: 142px; */
+  /* height: 38px; */
+  border-radius: 50px;
+  border: solid 1px #8c7049;
+  color: #8c7049;
+
+  text-transform: uppercase;
+}
+
+.pro-btn,
+.pro-btn:hover {
+  color: white;
+  border: solid 1px #8c7049;
+
+  /* width: 149px; */
+  /* height: 38px; */
+  border-radius: 50px;
+  background-color: #8c7049;
+  text-transform: uppercase;
+}
+
+
+
+[dir="rtl"] .right-border {
+  border-left: 1px solid black;
+}
+
+[dir="ltr"] .right-border {
+  border-right: 1px solid black;
+}
+
+@media (max-width: 990px) {
+  [dir="rtl"] .right-border {
+    border-left: none;
+  }
+
+  [dir="ltr"] .right-border {
+    border-right: none;
+  }
+}

@@ -1,0 +1,105 @@
+.ver {
+  vertical-align: middle;
+}
+
+
+.modal-content [type="radio"]:checked + p {
+  /* outline: 2px solid #8c7049; */
+  /* border-radius: 3px; */
+  /* outline-radius: 25px; */
+
+  /* box-shadow: 0 0 3pt 2pt #8c7049; */
+  border-radius: 5px;
+  border: 1px solid #8c7049;
+}
+.modal-content [type="radio"] + p {
+  cursor: pointer;
+  border: 1px solid #cecece;
+  border-radius: 5px; padding: 20px;
+}
+
+
+.modal-content [type="radio"] {
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 3px;
+  /* border: 1px solid transparent; */
+}
+
+
+
+.methods-holder {
+  text-align: center;
+  padding: 20px 0px;
+  width: 121px;
+
+  min-height: 158px;
+  border-radius: 20px;
+  border: solid 1px #8c7049;
+}
+
+.change-btn,
+.change-btn:hover {
+  width: 98px;
+  border-radius: 40px;
+  background-color: #8c7049;
+  color: black;
+  position: relative;
+  top: -20px;
+  border: none;
+}
+
+
+.Address-delivery-title{text-decoration: underline;
+
+
+    font-size: 22px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.09;
+    letter-spacing: normal;
+}
+
+.change-add-btn, .change-add-btn:hover{   width: 217px;
+    height: 49px;
+    border-radius: 30px;
+    border: solid 1px #8c7049;
+    color: black;
+    background-color: white;
+}
+
+
+
+.total-cost-summry{max-width: 440px;
+    height: 49px;
+    border-radius: 40px;
+    border: solid 1px #8c7049;}
+
+    .back-btn ,.back-btn:hover{background-color: transparent;
+border: none;
+color: black;
+    }
+
+
+    [dir="rtl"] .right-border {
+      border-left: 1px solid black;
+    }
+    
+    [dir="ltr"] .right-border {
+      border-right: 1px solid black;
+    }
+    
+    @media (max-width: 990px) {
+      [dir="rtl"] .right-border {
+        border-left: none;
+      }
+    
+      [dir="ltr"] .right-border {
+        border-right: none;
+      }
+    }
+    
+

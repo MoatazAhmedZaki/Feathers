@@ -1,0 +1,13 @@
+{
+    "AR": {
+      "Lang": "ar",
+      "PaymentOptions":"اختيارات الدفع "
+
+    },
+    "EN": {
+      "Lang": "en",
+      "PaymentOptions":"Payment Options"
+      
+    }
+  }
+  

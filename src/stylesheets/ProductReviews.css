@@ -1,0 +1,56 @@
+.ProductReviews .stars-rate{color:#8c7049}
+
+
+
+.ProductReviews .rc-rate-star-half .rc-rate-star-first, .rc-rate-star-full .rc-rate-star-second
+
+.ProductReviews .rc-rate-star-half , .ProductReviews .rc-rate-star-full *{color:#8c7049!important}
+.ProductReviews h2{font-size: 59px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: 0.06px;
+    color: var(--black);}
+    .ProductReviews p small{ font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.27;
+        letter-spacing: 0.02px;
+        text-align: left;
+        color: #b9b9b9;
+      }
+
+      .ProductReviews .add-comment-btn{    background-color: #8c7049;
+        border: 1px solid #8c7049;
+        border-radius: 20px;
+        color: white;
+        text-transform: uppercase;}
+
+
+.ProductReviews .pp-img{border-radius: 50%;}
+.ProductReviews .pp-name{font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: left;
+    color: var(--black);}
+
+    .ProductReviews .pp-comment{font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: 1.5;
+        letter-spacing: normal;
+        text-align: left;
+        color: var(--black);}
+
+        .ProductReviews .inline-block{ display: inline-block;}
+
+        .ProductReviews .progress{    height: 10px;
+        }
+
+        .progress-bar{background-color:#8c7049 ;}

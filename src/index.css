@@ -1,0 +1,70 @@
+@import url(//db.onlinewebfonts.com/c/06ca1e9118dc79821092f734573d232e?family=Daimler+CAC);
+
+@font-face {
+  font-family: "DaimlerCAC";
+  src: url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.eot");
+  src: url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/06ca1e9118dc79821092f734573d232e.svg#Daimler CAC")
+      format("svg");
+}
+
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  /* font-family: DaimlerCAC; */
+
+  /* 
+  -webkit-font-smoothing: antialiased; 
+  -moz-osx-font-smoothing: grayscale; */
+  overflow-x: hidden;
+}
+
+
+ .en *:not(i){
+  font-family: 'DaimlerCAC'!important;
+}
+
+ /* .modal-dialog  .modal-body *:not(i){
+  font-family: 'DaimlerCAC'!important;
+} */
+
+
+  .ar *:not(i){
+  font-family: 'Cairo', sans-serif;
+}
+
+
+* {
+  box-sizing: border-box !important;
+  /* margin: 0;
+  padding: 0; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.w-80 {
+  width: 80%;
+}
+
+  .w-90{width: 95%;}
+
+  @media (max-width: 700px) {
+
+
+  .nowrap{ flex-wrap: wrap;}
+  }
+
+  .dropdown-item:active {    background-color: #8c7049;
+  }

@@ -1,0 +1,28 @@
+
+
+
+.stage p.active{ 
+    background-color: #8c7049;
+ color: white; }
+
+
+
+.stage p{padding: 10px;
+    background-color: white;
+ border-radius: 50%; color: #8c7049;;
+border: 1px solid #8c7049; ;
+position: relative;
+z-index: 5;}
+
+
+
+.line{background-color: #eeeeee
+  ;height: 2px; margin: 0 5px;}
+
+  .stage  .payment-icons path {
+    fill: #8c7049;;
+  }
+
+  .stage .active  .payment-icons path {
+    fill: white;
+  }

@@ -1,0 +1,30 @@
+{
+  "AR": {
+    "Lang": "ar",
+    "LetsSignYouIn": "دعنا نسجل دخولك",
+    "Welcome": "مرحبًا بعودتك ، لقد افتقدناك    ",
+    "PhoneOrEmail": " رقم الهاتف او البريد الكتروني",
+    "Password": "كلمة السر",
+    "RememberMe": "تذكرني",
+    "Forgot": "نسيت كلمة السر؟",
+    "SignIn": "تسجيل الدخول",
+    "google": "تابع بحساب جوجل",
+    "Twitter": "تابع بحساب تويتر",
+    "NotAMember": "لست عضو ؟",
+    "SignUp": "انشاء حساب"
+  },
+  "EN": {
+    "Lang": "en",
+    "LetsSignYouIn": "Let’s sign you in",
+    "Welcome": "Welcome back, you’ve been missed",
+    "PhoneOrEmail": "Phone number or email",
+    "Password": "Password",
+    "RememberMe": "Remember me",
+    "Forgot": "Forgot Password?",
+    "SignIn": "Sign In",
+    "google": "Continue with Google",
+    "Twitter": "Continue with Twitter ",
+    "NotAMember": "Not a member yet?",
+    "SignUp": "Sign Up"
+  }
+}

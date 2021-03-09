@@ -1,0 +1,77 @@
+.address-card .address-title {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 18px;
+
+  font-weight: bold;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.11;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #525252;
+}
+.address-card .address-body {
+  font-family: "Open Sans", sans-serif;
+
+  font-size: 16px;
+
+  font-weight: normal;
+
+  font-stretch: normal;
+
+  font-style: normal;
+
+  line-height: 1.25;
+
+  letter-spacing: normal;
+
+  text-align: left;
+
+  color: #525252;
+}
+/* 
+.address-card.acitve {
+  border: solid 1px #f8901a;
+}
+
+
+
+
+
+
+
+
+
+/* HIDE RADIO */
+.del-addresses [type="radio"] {
+  position: absolute;
+  opacity: 0;
+  /* width: 100%;
+    height: 100%; */
+  border-radius: 3px;
+  background-color: red;
+  /* border: 1px solid transparent; */
+}
+
+.del-addresses [type="radio"] + div {
+  cursor: pointer;
+  border-radius: 20px;
+
+  border: solid 1px #cecece;
+
+  background-color: transparent;
+}
+
+.del-addresses [type="radio"]:checked + div {
+  /* outline: 2px solid #f8901a; */
+  border: 1px solid #f8901a;
+  /* outline-radius: 25px; */
+  /* box-shadow: 0 0 3pt 2pt #f8901a; */
+}

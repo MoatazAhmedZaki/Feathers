@@ -1,0 +1,21 @@
+{
+    "AR": {
+      "Lang": "ar",
+      "Verify1":"تحقق من حسابك",
+      "Enter":"ادخل رقم هاتفك والكود الذي تم بعته عليه ",
+      "Phone":"رقم العاتف",
+      "Code" :"الكود",
+      "Verify2":"تحقق من رقمك "     
+
+    },
+    "EN": {
+      "Lang": "en",
+      "Verify1":"Verify Your Account",
+      "Enter":"Enter The Phone number and the code that Sent To Your Phone Number ",
+      "Phone":"Phone",
+      "Code" :"Code",
+      "Verify2":"Verify your number"
+
+    }
+  }
+  

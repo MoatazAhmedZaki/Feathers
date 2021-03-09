@@ -1,0 +1,154 @@
+.ShoppingCart {
+  min-height: 50vh;
+}
+.ShoppingCart .table td,
+.ShoppingCart .table th {
+  border: none;
+}
+
+.pt-my {
+  padding-top: 2.1rem !important;
+}
+
+.display-inline-block div {
+  display: inline-block;
+}
+.display-inline-block p {
+  display: block;
+}
+
+.ShoppingCart .input-group {
+  width: 300px;
+}
+.ShoppingCart .input-group,
+.ShoppingCart .my-border {
+  border: solid 1px #8c7049;
+  border-radius: 30px;
+}
+
+.form-check-label {
+  background-color: white;
+}
+
+#white:checked + label {
+  background-color: black;
+}
+
+/* .form-check-label {
+  
+    border-radius: 50%;
+    transition: all 0.2s ease-in-out 0s;
+    width: 5px;
+    height: 5px;
+     padding: 10px;
+    border-radius: 50%;
+    border: solid 4px black;
+  } */
+
+.form-check-input {
+  display: none;
+}
+.form-check-label {
+  text-align: center;
+  font-size: 10px;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+  border-radius: 50%;
+  color: black;
+  background: white;
+  transition: all 0.2s ease-in-out 0s;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: solid 1px #8c7049;
+}
+
+[dir="ltr"] .ShoppingCart .form-check-label::after {
+  content: "Send as a gift";
+
+  position: absolute;
+  font-size: 20px;
+  top: -5px;
+  padding: 0 20px;
+}
+[dir="rtl"] .ShoppingCart .form-check-label::after {
+  content: "ابعت هدية";
+
+  position: absolute;
+  font-size: 20px;
+  top: -5px;
+  padding: 0 20px;
+}
+
+.stage p {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 10px;
+}
+
+/* .stage p{position: relative; text-align: center; width: fit-content; z-index: 2; }
+
+.stage span{ padding: 10px;
+    background-color: #8c7049;
+border-radius: 50%; color: white; }
+
+
+.stage p:after{position: absolute; content: ""; width: 100%; height: 2px; background-color: red; top: 10px; right: 0;
+bottom: 0; left: 0; z-index: 1;} */
+
+.table-head {
+  color: #c1c1c1;
+}
+
+.ShoppingCart .no-bg {
+  border: none;
+  background-color: transparent;
+}
+
+.ShoppingCart .total-cost {
+  width: 220px;
+  min-height: 49px;
+  border-radius: 30px;
+  border: solid 1px #8c7049;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.ShoppingCart .checkout,
+.ShoppingCart .checkout:hover {
+  width: 220px;
+  min-height: 49px;
+  border-radius: 50px;
+  background-color: #8c7049;
+  text-align: center;
+  padding-top: 10px;
+  color: white;
+  border: solid 1px #8c7049;
+}
+
+.my-border.no-bg:focus {
+  box-shadow: none;
+}
+
+.ShoppingCart .Quan-btn {
+  background-color: transparent;
+  border: 1px solid #8c7049;
+  border-radius: 20px;
+  display: block;
+  color: black;
+  text-transform: uppercase;
+  width: fit-content;
+}
+
+.ShoppingCart .Quan-btn .quant-add-remove {
+  border: none;
+  background-color: transparent;
+}
+
+.ShoppingCart .Quan-btn .quant-add-remove:focus {
+  outline: unset;
+  box-shadow: none;
+}
