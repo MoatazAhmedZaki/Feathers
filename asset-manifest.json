@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Feathers/static/css/main.11c39f44.chunk.css",
+    "main.js": "/Feathers/static/js/main.d5d9020b.chunk.js",
+    "main.js.map": "/Feathers/static/js/main.d5d9020b.chunk.js.map",
+    "runtime-main.js": "/Feathers/static/js/runtime-main.3e94be8b.js",
+    "runtime-main.js.map": "/Feathers/static/js/runtime-main.3e94be8b.js.map",
+    "static/css/2.cd3963c2.chunk.css": "/Feathers/static/css/2.cd3963c2.chunk.css",
+    "static/js/2.e251f9d7.chunk.js": "/Feathers/static/js/2.e251f9d7.chunk.js",
+    "static/js/2.e251f9d7.chunk.js.map": "/Feathers/static/js/2.e251f9d7.chunk.js.map",
+    "index.html": "/Feathers/index.html",
+    "precache-manifest.c74eaaa6813b16d7dfe76a487c8b1356.js": "/Feathers/precache-manifest.c74eaaa6813b16d7dfe76a487c8b1356.js",
+    "service-worker.js": "/Feathers/service-worker.js",
+    "static/css/2.cd3963c2.chunk.css.map": "/Feathers/static/css/2.cd3963c2.chunk.css.map",
+    "static/css/main.11c39f44.chunk.css.map": "/Feathers/static/css/main.11c39f44.chunk.css.map",
+    "static/media/ContactUs.css": "/Feathers/static/media/contact-header.afe59093.png",
+    "static/media/homehader2.jpg": "/Feathers/static/media/homehader2.9ee3dfa7.jpg",
+    "static/media/homerHeader.bmp": "/Feathers/static/media/homerHeader.1021b149.bmp",
+    "static/media/item.png": "/Feathers/static/media/item.1387591d.png",
+    "static/media/item1.bmp": "/Feathers/static/media/item1.1001c503.bmp",
+    "static/media/item2.bmp": "/Feathers/static/media/item2.15e0c379.bmp",
+    "static/media/item3.bmp": "/Feathers/static/media/item3.ac3d4e76.bmp",
+    "static/media/item4.bmp": "/Feathers/static/media/item4.986f72b4.bmp",
+    "static/media/item5.bmp": "/Feathers/static/media/item5.0ba7613b.bmp",
+    "static/media/itunes-icon.png": "/Feathers/static/media/itunes-icon.840c36fa.png",
+    "static/media/khalid.png": "/Feathers/static/media/khalid.fa120b80.png",
+    "static/media/logo.svg": "/Feathers/static/media/logo.421eb312.svg",
+    "static/media/Footer.css": "/Feathers/static/media/pattern_dark.95085fe5.png",
+    "static/media/slick-theme.css": "/Feathers/static/media/slick.f97e3bbf.svg",
+    "static/media/wallet1.jpg": "/Feathers/static/media/wallet1.c5eb262d.jpg",
+    "static/media/wallet2.jpg": "/Feathers/static/media/wallet2.4a0a1449.jpg",
+    "static/media/wallet3.jpg": "/Feathers/static/media/wallet3.7db43056.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e94be8b.js",
+    "static/css/2.cd3963c2.chunk.css",
+    "static/js/2.e251f9d7.chunk.js",
+    "static/css/main.11c39f44.chunk.css",
+    "static/js/main.d5d9020b.chunk.js"
+  ]
+}
